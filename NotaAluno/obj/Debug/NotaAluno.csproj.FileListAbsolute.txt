@@ -1,0 +1,8 @@
+D:\Usuário\Usuários\Estudo\C# Udemy\NotaAluno\NotaAluno\obj\Debug\NotaAluno.csproj.AssemblyReference.cache
+D:\Usuário\Usuários\Estudo\C# Udemy\NotaAluno\NotaAluno\obj\Debug\NotaAluno.csproj.SuggestedBindingRedirects.cache
+D:\Usuário\Usuários\Estudo\C# Udemy\NotaAluno\NotaAluno\obj\Debug\NotaAluno.csproj.CoreCompileInputs.cache
+D:\Usuário\Usuários\Estudo\C# Udemy\NotaAluno\NotaAluno\bin\Debug\NotaAluno.exe.config
+D:\Usuário\Usuários\Estudo\C# Udemy\NotaAluno\NotaAluno\bin\Debug\NotaAluno.exe
+D:\Usuário\Usuários\Estudo\C# Udemy\NotaAluno\NotaAluno\bin\Debug\NotaAluno.pdb
+D:\Usuário\Usuários\Estudo\C# Udemy\NotaAluno\NotaAluno\obj\Debug\NotaAluno.exe
+D:\Usuário\Usuários\Estudo\C# Udemy\NotaAluno\NotaAluno\obj\Debug\NotaAluno.pdb
